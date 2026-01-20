@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92f17a2af15d049c8893cc54705cbb8c
+timeCreated: 1475656552
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73033
+  packageName: Match 3 - Pets Sprite Mega Pack
+  packageVersion: 1.0.0b
+  assetPath: Assets/PetsPack/Pack/AI/Duck.ai
+  uploadId: 159671

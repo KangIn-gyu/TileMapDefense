@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58c5af8d849cd49b7a33f0e1ef1614da
+timeCreated: 1475656552
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73033
+  packageName: Match 3 - Pets Sprite Mega Pack
+  packageVersion: 1.0.0b
+  assetPath: Assets/PetsPack/Pack/AI/Mouse.ai
+  uploadId: 159671

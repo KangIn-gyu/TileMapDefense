@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b4891d38d0bc354b94d3a7c7b83b408, type: 3}
+  m_Name: OperatorA
+  m_EditorClassIdentifier: Assembly-CSharp::OperatorData
+  m_ID: A
+  m_HP: 200
+  m_AttackType: 0
+  m_AttackPower: 50
+  m_Defense: 100
+  m_AttackCooldown: 1
+  m_Cost: 11
+  RedeploymentMaxCooldown: 40
+  m_Sprite: {fileID: 21300000, guid: 1d43987c40ee2964eb8a10128de90f34, type: 3}
+  m_ClassIcon: {fileID: 21300000, guid: f457507731a58f44f8ae2bc05b304288, type: 3}
+  m_AttackOffsets:
+  - {x: 1, y: 0}
+  - {x: 2, y: 0}

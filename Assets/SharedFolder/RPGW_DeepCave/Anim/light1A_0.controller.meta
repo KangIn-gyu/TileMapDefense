@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8278864cb6d0c44bacf50f02683da1e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196277
+  packageName: RPG Worlds Deep Cave
+  packageVersion: 1.0
+  assetPath: Assets/RPGW_DeepCave/Anim/light1A_0.controller
+  uploadId: 435882
